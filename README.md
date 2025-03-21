@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Raimundo Nonato Carvalho de Araújo from Manaus, Amazonas.<br><br>🔭 I’m working as Software Developer<br><br>📚 I'm currently learning Data Science and Statistics<br><br>⚡ In my free time I listen to a lot of music!</p>
+<p align="left">I'm Raimundo Araújo from Manaus, Amazonas.<br><br>🔭 I’m working as Software Developer<br><br>📚 I'm currently learning Data Science and Statistics<br><br>⚡ In my free time I listen to a lot of music!</p>
 
 ###
 
