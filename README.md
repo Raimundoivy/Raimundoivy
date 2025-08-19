@@ -20,9 +20,9 @@ Aqui estão alguns projetos que demonstram minhas habilidades em ação. Eles fo
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
-| 🚢 **Serviço de Predição de Churn** | Um serviço web completo que prevê a probabilidade de um cliente cancelar seu contrato, encapsulado em um contêiner Docker. | `Scikit-learn`, `Flask`, `Docker`, `MLOps` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-CHURN]** |
-| 🚗 **Modelo Preditivo de Preços de Carros** | Um modelo de Regressão Linear que estima o preço de carros usados com base em suas características, incluindo EDA e engenharia de features. | `Scikit-learn`, `Pandas`, `Seaborn` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-CARROS]** |
-| 🏙️ **Análise de Preços do Airbnb em NYC** | Análise exploratória profunda e construção de um modelo de regressão para prever preços de aluguéis em Nova York. | `Pandas`, `EDA`, `Feature Engineering` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-AIRBNB]** |
+| 🚢 **Serviço de Predição de Churn** | Um serviço web completo que prevê a probabilidade de um cliente cancelar seu contrato, encapsulado em um contêiner Docker. | `Scikit-learn`, `Flask`, `Docker`, `MLOps` | **[Ver no GitHub]** |
+| 🚗 **Modelo Preditivo de Preços de Carros** | Um modelo de Regressão Linear que estima o preço de carros usados com base em suas características, incluindo EDA e engenharia de features. | `Scikit-learn`, `Pandas`, `Seaborn` | **[Ver no GitHub]** |
+| 🏙️ **Análise de Preços do Airbnb em NYC** | Análise exploratória profunda e construção de um modelo de regressão para prever preços de aluguéis em Nova York. | `Pandas`, `EDA`, `Feature Engineering` | **[Ver no GitHub]** |
 
 ## 🛠️ Meu Tech Stack
 
