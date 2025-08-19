@@ -1,58 +1,53 @@
-<h1 align="left">Olá👋!</h1>
+<div align="center">
+  <h1>Olá, eu sou o Raimundo Araújo! 👋</h1>
+  <h3>Estudante de Ciência da Computação e Aspirante a Engenheiro de Machine Learning</h3>
+  <p>De Manaus, Amazonas 🇧🇷, apaixonado por resolver problemas do mundo real aplicando os princípios da engenharia de software e da ciência de dados.</p>
+</div>
 
-###
+---
 
-<p align="left">I'm Raimundo Araújo from Manaus, Amazonas.</p>
+## 👨‍💻 Sobre Mim
 
-###
+Sou um estudante de Ciência da Computação no **Instituto Federal do Amazonas (IFAM)**, focado em transformar dados em soluções práticas e inteligentes. Minha jornada na tecnologia é impulsionada pela curiosidade e pelo desejo de construir ferramentas que gerem impacto.
 
-<h2 align="left">About me</h2>
+- 📚 Atualmente, estou aprofundando meus conhecimentos no ciclo de vida completo de projetos de Machine Learning, desde a **análise de dados** e **treinamento de modelos** até a **implantação (deployment)** de serviços em produção.
+- 🎯 Meu objetivo é me tornar um especialista na construção de sistemas de ML robustos, escaláveis e confiáveis.
+- 🎲 Fora do código, minha grande paixão é a cultura Hip-Hop!
 
-###
+## 🚀 Meus Projetos em Destaque
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Data Science and Statistics<br>🎯 Goals: To become proficient in the field of data<br>🎲 Fun fact: Culture in general appeals to me, however, hip-hop is where my true passion lies.</p>
+Aqui estão alguns projetos que demonstram minhas habilidades em ação. Eles foram desenvolvidos aplicando os conceitos do livro "Machine Learning Bookcamp".
 
-###
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| 🚢 **Serviço de Predição de Churn** | Um serviço web completo que prevê a probabilidade de um cliente cancelar seu contrato, encapsulado em um contêiner Docker. | `Scikit-learn`, `Flask`, `Docker`, `MLOps` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-CHURN]** |
+| 🚗 **Modelo Preditivo de Preços de Carros** | Um modelo de Regressão Linear que estima o preço de carros usados com base em suas características, incluindo EDA e engenharia de features. | `Scikit-learn`, `Pandas`, `Seaborn` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-CARROS]** |
+| 🏙️ **Análise de Preços do Airbnb em NYC** | Análise exploratória profunda e construção de um modelo de regressão para prever preços de aluguéis em Nova York. | `Pandas`, `EDA`, `Feature Engineering` | **[Ver no GitHub][LINK-PARA-SEU-PROJETO-AIRBNB]** |
 
-<h2 align="left">I code with</h2>
+## 🛠️ Meu Tech Stack
 
-###
+Estas são as ferramentas e tecnologias com as quais tenho trabalhado:
+
+| Linguagens | Data Science & Machine Learning | MLOps & Backend | Outras Ferramentas |
+| :--- | :--- | :--- | :--- |
+| `Python` | `Scikit-learn` | `Docker` | `Git` & `GitHub` |
+| `R` | `Pandas` | `Flask` | `Jupyter Notebook` |
+| `C++` | `NumPy` | `REST APIs` | `Fedora Linux` |
+| | `XGBoost` | `Gunicorn` | `TailwindCSS` |
+| | `Matplotlib` & `Seaborn` | | |
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raimundoivy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundoivy&layout=compact&theme=dracula&hide_border=true&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+</div>
+
+## 📫 Como me Encontrar
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundoivy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundoivy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raimundoivy.raimundoivy&"  />
-</div>
-
-###
+  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  </div>
