@@ -20,23 +20,23 @@ My goal is to become an expert in building robust, scalable, and reliable ML sys
 
 ## 🚀 Featured Projects
 
-Here are a few projects where I have applied my skills to solve practical problems, primarily using concepts from the "Machine Learning Bookcamp".
+Here are a few projects where I have applied my skills to solve practical problems, primarily using concepts from the **"Machine Learning Bookcamp"**.
 
 ### 🚢 End-to-End Customer Churn Prediction Service
 Developed a complete web service to predict customer churn probability. The solution includes a trained `Scikit-learn` model, a `Flask` API for real-time predictions, and is containerized with `Docker` for portability and seamless deployment.
 - **Key Skills Demonstrated:** Model Training, API Development (REST), Containerization (Docker), MLOps Principles.
 - **Technologies:** `Python`, `Scikit-learn`, `Flask`, `Gunicorn`, `Docker`.
-- **➡️ [View on GitHub]** *(<-- )*
+- **➡️ [[View on GitHub](https://github.com/Raimundoivy/ClientChurnPrediction)]** 
 
 ### 🚗 Predictive Model for Used Car Prices
 Engineered a Linear Regression model to estimate the market value of used cars based on their features. This project involved a comprehensive Exploratory Data Analysis (EDA), rigorous data cleaning, and strategic feature engineering to improve model accuracy.
 - **Key Skills Demonstrated:** Regression Modeling, Exploratory Data Analysis, Data Cleaning, Feature Engineering.
 - **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Seaborn`.
-- **➡️ [View on GitHub]** *(<-- )*
+- **➡️ [[View on GitHub](https://github.com/Raimundoivy/CarPricePredictionUsingLinearRegression)]** 
 
 ## 🛠️ Technology Stack
 
-This stack reflects the core technologies I have applied in my projects based on the *Machine Learning Bookcamp* curriculum.
+This stack reflects the core technologies I have applied in my end-to-end machine learning projects:
 
 | Languages | Data Science & ML | Backend & MLOps | Tools & Platforms |
 | :--- | :--- | :--- | :--- |
