@@ -99,8 +99,6 @@ Engineered a regression model to estimate the market value of used vehicles. The
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
----
-
 ## 📫 Let's Connect
 <div align="center">
   <p>Feel free to reach out for collaborations or a conversation!</p>
