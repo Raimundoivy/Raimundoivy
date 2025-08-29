@@ -100,11 +100,6 @@ Engineered a regression model to estimate the market value of used vehicles. The
 </p>
 
 
-## 📊 GitHub Activity & Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundoivy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundoivy&layout=compact&theme=dracula&hide_border=true&locale=en" height="150" alt="Top Languages" />
-</div>
 
 ## 📫 Let's Connect
 <div align="center">
