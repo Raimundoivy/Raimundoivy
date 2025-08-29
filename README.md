@@ -1,65 +1,72 @@
 <div align="center">
-  <h1>Raimundo Araújo</h1>
-  <h3>Computer Science Student Specializing in Building & Deploying Machine Learning Systems</h3>
-  <p>📍 Manaus, Amazonas, Brazil 🇧🇷</p>
+  <h1>Raimundo Araújo</h1>
+  <h3>Computer Science Student</h3>
+  <h4>Focusing on ML Systems & Engineering</h4>
+  <p>Applying software engineering principles to build and deploy end-to-end machine learning solutions.</p>
+  <p>📍 Manaus, Amazonas, Brazil</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Technical Synopsis
 
-I am a Computer Science undergraduate at the **Instituto Federal do Amazonas (IFAM)** with a dedicated focus on the practical application of Machine Learning. I am passionate about leveraging software engineering principles and data science methodologies to build intelligent, real-world solutions.
+I am a Computer Science sophomore at the **Instituto Federal do Amazonas (IFAM)** with a dedicated focus on the engineering challenges of operationalizing machine learning models. My coursework and personal projects are centered on moving beyond theoretical concepts to architect, build, and deploy functional ML systems.
 
-My journey is driven by a deep curiosity for the entire ML lifecycle—from ideation and data analysis to deployment and monitoring. Outside of technology, I am an avid enthusiast of Hip-Hop culture.
+My guiding principle is to master the entire MLOps lifecycle—from data validation and model training to containerized deployment and inference—demonstrating a practical, hands-on approach to creating scalable data products.
 
-## 🎯 Current Focus
+### Demonstrated Competencies
+- **ML System Design:** Architecting project pipelines that include data validation, feature engineering, model training, and inference serving.
+- **Model Deployment (MLOps):** Gaining practical experience in containerization with Docker and deploying models as scalable microservices via RESTful APIs.
+- **Statistical Modeling:** Applying regression and classification algorithms to build predictive models, grounded in rigorous exploratory data analysis (EDA) and feature engineering.
+- **Backend Integration:** Constructing API servers (Flask, Gunicorn) to serve model predictions for real-world applications.
 
-My goal is to become an expert in building robust, scalable, and reliable ML systems. Currently, I am deepening my expertise in:
-- **End-to-End Machine Learning Lifecycle:** Mastering the process from data analysis and model training to production deployment and MLOps.
-- **MLOps Principles:** Implementing practices for automation, containerization, and monitoring to ensure models are maintainable and performant over time.
+## Featured Engineering Projects
 
-## 🚀 Featured Projects
-
-Here are a few projects where I have applied my skills to solve practical problems, primarily using concepts from the **"Machine Learning Bookcamp"**.
+A selection of projects demonstrating the design and implementation of production-oriented ML systems.
 
 ### 🚢 End-to-End Customer Churn Prediction Service
-Developed a complete web service to predict customer churn probability. The solution includes a trained `Scikit-learn` model, a `Flask` API for real-time predictions, and is containerized with `Docker` for portability and seamless deployment.
-- **Key Skills Demonstrated:** Model Training, API Development (REST), Containerization (Docker), MLOps Principles.
+An operationalized microservice designed to predict customer churn in real-time. This project implements a full MLOps workflow, from model training and serialization to a containerized API deployment.
+
+- **System Architecture:**
+    - A `Scikit-learn` classification model trained on historical data.
+    - Model and preprocessing pipeline serialized into a single artifact for consistent transformations.
+    - A `Flask` application exposing a `/predict` RESTful endpoint for low-latency inference.
+    - Containerized via `Docker` with a `Gunicorn` WSGI server for concurrent request handling and reproducible deployment.
 - **Technologies:** `Python`, `Scikit-learn`, `Flask`, `Gunicorn`, `Docker`.
-- **➡️ [[View on GitHub](https://github.com/Raimundoivy/ClientChurnPrediction)]** 
+- **Repository:** **[Raimundoivy/ClientChurnPrediction](https://github.com/Raimundoivy/ClientChurnPrediction)**
 
-### 🚗 Predictive Model for Used Car Prices
-Engineered a Linear Regression model to estimate the market value of used cars based on their features. This project involved a comprehensive Exploratory Data Analysis (EDA), rigorous data cleaning, and strategic feature engineering to improve model accuracy.
-- **Key Skills Demonstrated:** Regression Modeling, Exploratory Data Analysis, Data Cleaning, Feature Engineering.
-- **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Seaborn`.
-- **➡️ [[View on GitHub](https://github.com/Raimundoivy/CarPricePredictionUsingLinearRegression)]** 
+### 🚗 Predictive Analytics for Used Vehicle Valuation
+Engineered a regression model to estimate the market value of used vehicles. The primary focus was on rigorous data preprocessing, feature engineering, and a systematic approach to model validation.
 
-## 🛠️ Technology Stack
+- **Key Technical Contributions:**
+    - Executed a comprehensive Exploratory Data Analysis (EDA) to identify key value drivers and outliers.
+    - Developed a data cleaning and feature engineering pipeline using `Pandas` and `NumPy` to handle missing values, categorical encoding, and feature scaling.
+    - Trained and validated a Linear Regression model, analyzing feature importance and model performance metrics.
+- **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
+- **Repository:** **[Raimundoivy/CarPricePredictionUsingLinearRegression](https://github.com/Raimundoivy/CarPricePredictionUsingLinearRegression)**
 
-This stack reflects the core technologies I have applied in my end-to-end machine learning projects:
+## Core Technical Competencies
 
-| Languages | Data Science & ML | Backend & MLOps | Tools & Platforms |
+| Languages & Data | Data Science & Modeling | Backend & MLOps Infrastructure | Development Tools |
 | :--- | :--- | :--- | :--- |
 | `Python` | `Scikit-learn` | `Flask` | `Git` & `GitHub` |
-| | `Pandas` | `Docker` | `Jupyter Notebook` |
+| `SQL` (Basics) | `Pandas` | `Docker` | `Jupyter Notebook` |
 | | `NumPy` | `Gunicorn` | `Pipenv` |
-| | `XGBoost` | | `AWS Elastic Beanstalk` |
-| | `Matplotlib` & `Seaborn` | | |
+| | `XGBoost` | `AWS Elastic Beanstalk` | `Visual Studio Code` |
+| | `Matplotlib` / `Seaborn` | | |
 
-
-## 📊 GitHub Statistics
-
+## GitHub Activity & Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundoivy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundoivy&layout=compact&theme=dracula&hide_border=true&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raimundoivy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raimundoivy&layout=compact&theme=dracula&hide_border=true&locale=en" height="150" alt="Top Languages" />
 </div>
 
-## 📫 Let's Connect
+## Professional Connect
 
-I am always open to discussing new projects, sharing knowledge, and exploring opportunities. Feel free to connect with me!
+Open to discussing ML system design, MLOps methodologies, and future internship opportunities.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
+  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 </div>
