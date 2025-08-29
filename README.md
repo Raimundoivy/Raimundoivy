@@ -3,8 +3,28 @@
     <h1>Raimundo Araújo</h1>
   <h3>Computer Science Student</h3>
   <h4>Focusing on ML Systems & Engineering</h4>
-  <p>Applying software engineering principles to build and deploy end-to-end machine learning solutions.</p>
-  <p>📍 Manaus, Amazonas, Brazil</p>
+
+</div>
+
+<div align="center">
+  <p>Applying software engineering principles to build and deploy end-to-end machine learning solutions.</p>
+  <p>📍 Manaus, Amazonas, Brazil</p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUREMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=raimundoivy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
@@ -89,11 +109,5 @@ Engineered a regression model to estimate the market value of used vehicles. The
 
 ## 📫 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <p>Feel free to reach out for collaborations or a conversation!</p>
 </div>
