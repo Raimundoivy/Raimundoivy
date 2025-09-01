@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raimundoivy/" target="_blank">
+  <a href="https://www.linkedin.com/in/raimundoivy/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
   &nbsp;
@@ -64,6 +64,16 @@ An in-depth analysis comparing the performance of various decision tree-based en
     - Implementation and fine-tuning of models, followed by a comparative analysis of their accuracy, precision, and recall.
 - **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 - **Repository:** **[Raimundoivy/decision-trees-ensemble-learning](https://github.com/Raimundoivy/decision-trees-ensemble-learning)**
+
+### 📈 Exploratory Data Analysis of Rate Your Music Trends
+A deep-dive data analysis project that cleans, explores, and visualizes a large dataset from Rate Your Music (RYM) to uncover patterns in music ratings across genres and decades.
+
+- **Key Technical Contributions:**
+    - **Data Wrangling:** Performed extensive data cleaning and preprocessing on a raw dataset to prepare it for analysis.
+    - **Exploratory Data Analysis (EDA):** Conducted a comprehensive EDA using `Pandas` to investigate relationships between album ratings, genres, and release dates.
+    - **Insight Visualization:** Created a variety of visualizations with `Matplotlib` and `Seaborn` to clearly communicate key findings.
+- **Technologies:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
+- **Repository:** **[Raimundoivy/rym-analysis](https://github.com/Raimundoivy/rym-analysis)**
 
 
 ## 🛠️ Core Technical Competencies
