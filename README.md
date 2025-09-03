@@ -50,7 +50,7 @@ An operationalized microservice designed to predict customer churn in real-time.
 - **System Architecture:**
     - A `Scikit-learn` classification model trained and serialized for production use.
     - A `Flask` application exposing a `/predict` RESTful endpoint for low-latency inference.
-    - Dependency management handled by `Pipenv` to ensure consistent build environments.
+    - Dependency management handled by `Pipenv` to ensure consistent build environments.
     - Containerized via `Docker` with a `Gunicorn` WSGI server for reproducible deployment.
 - **Technologies:** `Python`, `Scikit-learn`, `Flask`, `Gunicorn`, `Pipenv`, `Docker`.
 - **Repository:** **[Raimundoivy/churn-prediction-service](https://github.com/Raimundoivy/churn-prediction-service)**
@@ -59,9 +59,9 @@ An operationalized microservice designed to predict customer churn in real-time.
 An in-depth analysis comparing the performance of various decision tree-based ensemble methods—including Bagging, Random Forest, and Boosting—on a customer churn prediction task.
 
 - **Key Technical Contributions:**
-    - Systematic evaluation of multiple ensemble techniques (Bagging, Random Forest, AdaBoost, Gradient Boosting).
-    - Detailed Exploratory Data Analysis (EDA) and feature visualization to understand churn drivers.
-    - Implementation and fine-tuning of models, followed by a comparative analysis of their accuracy, precision, and recall.
+    - Systematic evaluation of multiple ensemble techniques (Bagging, Random Forest, AdaBoost, Gradient Boosting).
+    - Detailed Exploratory Data Analysis (EDA) and feature visualization to understand churn drivers.
+    - Implementation and fine-tuning of models, followed by a comparative analysis of their accuracy, precision, and recall.
 - **Technologies:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 - **Repository:** **[Raimundoivy/decision-trees-ensemble-learning](https://github.com/Raimundoivy/decision-trees-ensemble-learning)**
 
@@ -69,11 +69,21 @@ An in-depth analysis comparing the performance of various decision tree-based en
 A deep-dive data analysis project that cleans, explores, and visualizes a large dataset from Rate Your Music (RYM) to uncover patterns in music ratings across genres and decades.
 
 - **Key Technical Contributions:**
-    - **Data Wrangling:** Performed extensive data cleaning and preprocessing on a raw dataset to prepare it for analysis.
-    - **Exploratory Data Analysis (EDA):** Conducted a comprehensive EDA using `Pandas` to investigate relationships between album ratings, genres, and release dates.
-    - **Insight Visualization:** Created a variety of visualizations with `Matplotlib` and `Seaborn` to clearly communicate key findings.
+    - **Data Wrangling:** Performed extensive data cleaning and preprocessing on a raw dataset to prepare it for analysis.
+    - **Exploratory Data Analysis (EDA):** Conducted a comprehensive EDA using `Pandas` to investigate relationships between album ratings, genres, and release dates.
+    - **Insight Visualization:** Created a variety of visualizations with `Matplotlib` and `Seaborn` to clearly communicate key findings.
 - **Technologies:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 - **Repository:** **[Raimundoivy/rym-analysis](https://github.com/Raimundoivy/rym-analysis)**
+
+### 📊 Time-Series Forecasting of Russian Alcohol Consumption
+A quantitative analysis project that applies Vector Autoregression (VAR and VARMAX) models to forecast national alcohol consumption trends in Russia.
+
+- **Key Technical Contributions:**
+    - **Time-Series Modeling:** Implemented VAR and VARMAX models using `statsmodels` to produce a 5-year consumption forecast for multiple beverage categories.
+    - **Statistical Diagnostics:** Conducted rigorous pre-modeling diagnostics, including stationarity checks with the Augmented Dickey-Fuller (ADF) test and relationship analysis using Granger Causality.
+    - **Model Validation:** Performed backtesting on a hold-out period (2020-2023) to validate forecast accuracy, evaluating performance with Mean Absolute Error (MAE).
+- **Technologies:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `statsmodels`.
+- **Repository:** **[Raimundoivy/russian-alcohol-analysis](https://github.com/Raimundoivy/russian-alcohol-analysis)**
 
 
 ## 🛠️ Core Technical Competencies
@@ -84,8 +94,8 @@ A deep-dive data analysis project that cleans, explores, and visualizes a large 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-4C7B9B?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-4C7B9B?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
 </p>
 
 #### Machine Learning
@@ -98,13 +108,13 @@ A deep-dive data analysis project that cleans, explores, and visualizes a large 
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/WordCloud-000000?style=for-the-badge&logo=python&logoColor=white" alt="WordCloud"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/WordCloud-000000?style=for-the-badge&logo=python&logoColor=white" alt="WordCloud"/>
 </p>
 
 #### Web Dashboards & MLOps
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
